@@ -1,0 +1,4103 @@
+[
+  {
+    "rawDexNum": 1,
+    "ndex": 1,
+    "name": "Bulbasaur",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "category": "regular",
+    "id": 1,
+    "dexNum": 1
+  },
+  {
+    "rawDexNum": 2,
+    "ndex": 2,
+    "name": "Ivysaur",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+    "category": "regular",
+    "id": 2,
+    "dexNum": 2
+  },
+  {
+    "rawDexNum": 3,
+    "ndex": 3,
+    "name": "Venusaur",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+    "category": "regular",
+    "id": 3,
+    "dexNum": 3
+  },
+  {
+    "rawDexNum": 4,
+    "ndex": 4,
+    "name": "Charmander",
+    "types": [
+      "Fire"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "category": "regular",
+    "id": 4,
+    "dexNum": 4
+  },
+  {
+    "rawDexNum": 5,
+    "ndex": 5,
+    "name": "Charmeleon",
+    "types": [
+      "Fire"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+    "category": "regular",
+    "id": 5,
+    "dexNum": 5
+  },
+  {
+    "rawDexNum": 6,
+    "ndex": 6,
+    "name": "Charizard",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+    "category": "regular",
+    "id": 6,
+    "dexNum": 6
+  },
+  {
+    "rawDexNum": 7,
+    "ndex": 7,
+    "name": "Squirtle",
+    "types": [
+      "Water"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "category": "regular",
+    "id": 7,
+    "dexNum": 7
+  },
+  {
+    "rawDexNum": 8,
+    "ndex": 8,
+    "name": "Wartortle",
+    "types": [
+      "Water"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+    "category": "regular",
+    "id": 8,
+    "dexNum": 8
+  },
+  {
+    "rawDexNum": 9,
+    "ndex": 9,
+    "name": "Blastoise",
+    "types": [
+      "Water"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+    "category": "regular",
+    "id": 9,
+    "dexNum": 9
+  },
+  {
+    "rawDexNum": 10,
+    "ndex": 16,
+    "name": "Pidgey",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+    "category": "regular",
+    "id": 10,
+    "dexNum": 10
+  },
+  {
+    "rawDexNum": 11,
+    "ndex": 17,
+    "name": "Pidgeotto",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+    "category": "regular",
+    "id": 11,
+    "dexNum": 11
+  },
+  {
+    "rawDexNum": 12,
+    "ndex": 18,
+    "name": "Pidgeot",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+    "category": "regular",
+    "id": 12,
+    "dexNum": 12
+  },
+  {
+    "rawDexNum": 13,
+    "ndex": 43,
+    "name": "Oddish",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
+    "category": "regular",
+    "id": 13,
+    "dexNum": 13
+  },
+  {
+    "rawDexNum": 14,
+    "ndex": 44,
+    "name": "Gloom",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
+    "category": "regular",
+    "id": 14,
+    "dexNum": 14
+  },
+  {
+    "rawDexNum": 15,
+    "ndex": 45,
+    "name": "Vileplume",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
+    "category": "regular",
+    "id": 15,
+    "dexNum": 15
+  },
+  {
+    "rawDexNum": 16,
+    "ndex": 182,
+    "name": "Bellossom",
+    "types": [
+      "Grass"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/182.png",
+    "category": "regular",
+    "id": 16,
+    "dexNum": 16
+  },
+  {
+    "rawDexNum": 17,
+    "ndex": 46,
+    "name": "Paras",
+    "types": [
+      "Bug",
+      "Grass"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
+    "category": "regular",
+    "id": 17,
+    "dexNum": 17
+  },
+  {
+    "rawDexNum": 18,
+    "ndex": 47,
+    "name": "Parasect",
+    "types": [
+      "Bug",
+      "Grass"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
+    "category": "regular",
+    "id": 18,
+    "dexNum": 18
+  },
+  {
+    "rawDexNum": 19,
+    "ndex": 48,
+    "name": "Venonat",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
+    "category": "regular",
+    "id": 19,
+    "dexNum": 19
+  },
+  {
+    "rawDexNum": 20,
+    "ndex": 49,
+    "name": "Venomoth",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
+    "category": "regular",
+    "id": 20,
+    "dexNum": 20
+  },
+  {
+    "rawDexNum": 21,
+    "ndex": 69,
+    "name": "Bellsprout",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
+    "category": "regular",
+    "id": 21,
+    "dexNum": 21
+  },
+  {
+    "rawDexNum": 22,
+    "ndex": 70,
+    "name": "Weepinbell",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
+    "category": "regular",
+    "id": 22,
+    "dexNum": 22
+  },
+  {
+    "rawDexNum": 23,
+    "ndex": 71,
+    "name": "Victreebel",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
+    "category": "regular",
+    "id": 23,
+    "dexNum": 23
+  },
+  {
+    "rawDexNum": 24,
+    "ndex": 79,
+    "name": "Slowpoke",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
+    "category": "regular",
+    "id": 24,
+    "dexNum": 24
+  },
+  {
+    "rawDexNum": 25,
+    "ndex": 80,
+    "name": "Slowbro",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
+    "category": "regular",
+    "id": 25,
+    "dexNum": 25
+  },
+  {
+    "rawDexNum": 26,
+    "ndex": 199,
+    "name": "Slowking",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png",
+    "category": "regular",
+    "id": 26,
+    "dexNum": 26
+  },
+  {
+    "rawDexNum": 27,
+    "ndex": 81,
+    "name": "Magnemite",
+    "types": [
+      "Electric",
+      "Steel"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
+    "category": "regular",
+    "id": 27,
+    "dexNum": 27
+  },
+  {
+    "rawDexNum": 28,
+    "ndex": 82,
+    "name": "Magneton",
+    "types": [
+      "Electric",
+      "Steel"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
+    "category": "regular",
+    "id": 28,
+    "dexNum": 28
+  },
+  {
+    "rawDexNum": 29,
+    "ndex": 462,
+    "name": "Magnezone",
+    "types": [
+      "Electric",
+      "Steel"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/462.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png",
+    "category": "regular",
+    "id": 29,
+    "dexNum": 29
+  },
+  {
+    "rawDexNum": 30,
+    "ndex": 95,
+    "name": "Onix",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
+    "category": "regular",
+    "id": 30,
+    "dexNum": 30
+  },
+  {
+    "rawDexNum": 31,
+    "ndex": 208,
+    "name": "Steelix",
+    "types": [
+      "Steel",
+      "Ground"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png",
+    "category": "regular",
+    "id": 31,
+    "dexNum": 31
+  },
+  {
+    "rawDexNum": 32,
+    "ndex": 104,
+    "name": "Cubone",
+    "types": [
+      "Ground"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
+    "category": "regular",
+    "id": 32,
+    "dexNum": 32
+  },
+  {
+    "rawDexNum": 33,
+    "ndex": 105,
+    "name": "Marowak",
+    "types": [
+      "Ground"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
+    "category": "regular",
+    "id": 33,
+    "dexNum": 33
+  },
+  {
+    "rawDexNum": 34,
+    "ndex": 236,
+    "name": "Tyrogue",
+    "types": [
+      "Fighting"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png",
+    "category": "regular",
+    "id": 34,
+    "dexNum": 34
+  },
+  {
+    "rawDexNum": 35,
+    "ndex": 106,
+    "name": "Hitmonlee",
+    "types": [
+      "Fighting"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
+    "category": "regular",
+    "id": 35,
+    "dexNum": 35
+  },
+  {
+    "rawDexNum": 36,
+    "ndex": 107,
+    "name": "Hitmonchan",
+    "types": [
+      "Fighting"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
+    "category": "regular",
+    "id": 36,
+    "dexNum": 36
+  },
+  {
+    "rawDexNum": 37,
+    "ndex": 237,
+    "name": "Hitmontop",
+    "types": [
+      "Fighting"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png",
+    "category": "regular",
+    "id": 37,
+    "dexNum": 37
+  },
+  {
+    "rawDexNum": 38,
+    "ndex": 109,
+    "name": "Koffing",
+    "types": [
+      "Poison"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
+    "category": "regular",
+    "id": 38,
+    "dexNum": 38
+  },
+  {
+    "rawDexNum": 39,
+    "ndex": 110,
+    "name": "Weezing",
+    "types": [
+      "Poison"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
+    "category": "regular",
+    "id": 39,
+    "dexNum": 39
+  },
+  {
+    "rawDexNum": 40,
+    "ndex": 114,
+    "name": "Tangela",
+    "types": [
+      "Grass"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
+    "category": "regular",
+    "id": 40,
+    "dexNum": 40
+  },
+  {
+    "rawDexNum": 41,
+    "ndex": 465,
+    "name": "Tangrowth",
+    "types": [
+      "Grass"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/465.png",
+    "category": "regular",
+    "id": 41,
+    "dexNum": 41
+  },
+  {
+    "rawDexNum": 42,
+    "ndex": 123,
+    "name": "Scyther",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
+    "category": "regular",
+    "id": 42,
+    "dexNum": 42
+  },
+  {
+    "rawDexNum": 43,
+    "ndex": 212,
+    "name": "Scizor",
+    "types": [
+      "Bug",
+      "Steel"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png",
+    "category": "regular",
+    "id": 43,
+    "dexNum": 43
+  },
+  {
+    "rawDexNum": 44,
+    "ndex": 127,
+    "name": "Pinsir",
+    "types": [
+      "Bug"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
+    "category": "regular",
+    "id": 44,
+    "dexNum": 44
+  },
+  {
+    "rawDexNum": 45,
+    "ndex": 129,
+    "name": "Magikarp",
+    "types": [
+      "Water"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
+    "category": "regular",
+    "id": 45,
+    "dexNum": 45
+  },
+  {
+    "rawDexNum": 46,
+    "ndex": 130,
+    "name": "Gyarados",
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
+    "category": "regular",
+    "id": 46,
+    "dexNum": 46
+  },
+  {
+    "rawDexNum": 47,
+    "ndex": 132,
+    "name": "Ditto",
+    "types": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
+    "category": "regular",
+    "id": 47,
+    "dexNum": 47
+  },
+  {
+    "rawDexNum": 48,
+    "ndex": 163,
+    "name": "Hoothoot",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/163.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/163.png",
+    "category": "regular",
+    "id": 48,
+    "dexNum": 48
+  },
+  {
+    "rawDexNum": 49,
+    "ndex": 164,
+    "name": "Noctowl",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png",
+    "category": "regular",
+    "id": 49,
+    "dexNum": 49
+  },
+  {
+    "rawDexNum": 50,
+    "ndex": 214,
+    "name": "Heracross",
+    "types": [
+      "Bug",
+      "Fighting"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png",
+    "category": "regular",
+    "id": 50,
+    "dexNum": 50
+  },
+  {
+    "rawDexNum": 51,
+    "ndex": 313,
+    "name": "Volbeat",
+    "types": [
+      "Bug"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/313.png",
+    "category": "regular",
+    "id": 51,
+    "dexNum": 51
+  },
+  {
+    "rawDexNum": 52,
+    "ndex": 314,
+    "name": "Illumise",
+    "types": [
+      "Bug"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/314.png",
+    "category": "regular",
+    "id": 52,
+    "dexNum": 52
+  },
+  {
+    "rawDexNum": 53,
+    "ndex": 316,
+    "name": "Gulpin",
+    "types": [
+      "Poison"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/316.png",
+    "category": "regular",
+    "id": 53,
+    "dexNum": 53
+  },
+  {
+    "rawDexNum": 54,
+    "ndex": 317,
+    "name": "Swalot",
+    "types": [
+      "Poison"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/317.png",
+    "category": "regular",
+    "id": 54,
+    "dexNum": 54
+  },
+  {
+    "rawDexNum": 55,
+    "ndex": 331,
+    "name": "Cacnea",
+    "types": [
+      "Grass"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/331.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/331.png",
+    "category": "regular",
+    "id": 55,
+    "dexNum": 55
+  },
+  {
+    "rawDexNum": 56,
+    "ndex": 332,
+    "name": "Cacturne",
+    "types": [
+      "Grass",
+      "Dark"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/332.png",
+    "category": "regular",
+    "id": 56,
+    "dexNum": 56
+  },
+  {
+    "rawDexNum": 57,
+    "ndex": 415,
+    "name": "Combee",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/415.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/415.png",
+    "category": "regular",
+    "id": 57,
+    "dexNum": 57
+  },
+  {
+    "rawDexNum": 58,
+    "ndex": 416,
+    "name": "Vespiquen",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/416.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/416.png",
+    "category": "regular",
+    "id": 58,
+    "dexNum": 58
+  },
+  {
+    "rawDexNum": 59,
+    "ndex": 422,
+    "name": "Shellos",
+    "types": [
+      "Water"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/422.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422.png",
+    "category": "regular",
+    "id": 59,
+    "dexNum": 59
+  },
+  {
+    "rawDexNum": 60,
+    "ndex": 423,
+    "name": "Gastrodon",
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/423.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png",
+    "category": "regular",
+    "id": 60,
+    "dexNum": 60
+  },
+  {
+    "rawDexNum": 61,
+    "ndex": 425,
+    "name": "Drifloon",
+    "types": [
+      "Ghost",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/425.png",
+    "category": "regular",
+    "id": 61,
+    "dexNum": 61
+  },
+  {
+    "rawDexNum": 62,
+    "ndex": 426,
+    "name": "Drifblim",
+    "types": [
+      "Ghost",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/426.png",
+    "category": "regular",
+    "id": 62,
+    "dexNum": 62
+  },
+  {
+    "rawDexNum": 63,
+    "ndex": 529,
+    "name": "Drilbur",
+    "types": [
+      "Ground"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/529.png",
+    "category": "regular",
+    "id": 63,
+    "dexNum": 63
+  },
+  {
+    "rawDexNum": 64,
+    "ndex": 530,
+    "name": "Excadrill",
+    "types": [
+      "Ground",
+      "Steel"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/530.png",
+    "category": "regular",
+    "id": 64,
+    "dexNum": 64
+  },
+  {
+    "rawDexNum": 65,
+    "ndex": 532,
+    "name": "Timburr",
+    "types": [
+      "Fighting"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/532.png",
+    "category": "regular",
+    "id": 65,
+    "dexNum": 65
+  },
+  {
+    "rawDexNum": 66,
+    "ndex": 533,
+    "name": "Gurdurr",
+    "types": [
+      "Fighting"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/533.png",
+    "category": "regular",
+    "id": 66,
+    "dexNum": 66
+  },
+  {
+    "rawDexNum": 67,
+    "ndex": 534,
+    "name": "Conkeldurr",
+    "types": [
+      "Fighting"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/534.png",
+    "category": "regular",
+    "id": 67,
+    "dexNum": 67
+  },
+  {
+    "rawDexNum": 68,
+    "ndex": 607,
+    "name": "Litwick",
+    "types": [
+      "Ghost",
+      "Fire"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/607.png",
+    "category": "regular",
+    "id": 68,
+    "dexNum": 68
+  },
+  {
+    "rawDexNum": 69,
+    "ndex": 608,
+    "name": "Lampent",
+    "types": [
+      "Ghost",
+      "Fire"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/608.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/608.png",
+    "category": "regular",
+    "id": 69,
+    "dexNum": 69
+  },
+  {
+    "rawDexNum": 70,
+    "ndex": 609,
+    "name": "Chandelure",
+    "types": [
+      "Ghost",
+      "Fire"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/609.png",
+    "category": "regular",
+    "id": 70,
+    "dexNum": 70
+  },
+  {
+    "rawDexNum": 71,
+    "ndex": 610,
+    "name": "Axew",
+    "types": [
+      "Dragon"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/610.png",
+    "category": "regular",
+    "id": 71,
+    "dexNum": 71
+  },
+  {
+    "rawDexNum": 72,
+    "ndex": 611,
+    "name": "Fraxure",
+    "types": [
+      "Dragon"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/611.png",
+    "category": "regular",
+    "id": 72,
+    "dexNum": 72
+  },
+  {
+    "rawDexNum": 73,
+    "ndex": 612,
+    "name": "Haxorus",
+    "types": [
+      "Dragon"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/612.png",
+    "category": "regular",
+    "id": 73,
+    "dexNum": 73
+  },
+  {
+    "rawDexNum": 74,
+    "ndex": 704,
+    "name": "Goomy",
+    "types": [
+      "Dragon"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/704.png",
+    "category": "regular",
+    "id": 74,
+    "dexNum": 74
+  },
+  {
+    "rawDexNum": 75,
+    "ndex": 705,
+    "name": "Sliggoo",
+    "types": [
+      "Dragon"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/705.png",
+    "category": "regular",
+    "id": 75,
+    "dexNum": 75
+  },
+  {
+    "rawDexNum": 76,
+    "ndex": 706,
+    "name": "Goodra",
+    "types": [
+      "Dragon"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/706.png",
+    "category": "regular",
+    "id": 76,
+    "dexNum": 76
+  },
+  {
+    "rawDexNum": 77,
+    "ndex": 845,
+    "name": "Cramorant",
+    "types": [
+      "Flying",
+      "Water"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/845.png",
+    "category": "regular",
+    "id": 77,
+    "dexNum": 77
+  },
+  {
+    "rawDexNum": 78,
+    "ndex": 172,
+    "name": "Pichu",
+    "types": [
+      "Electric"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png",
+    "category": "regular",
+    "id": 78,
+    "dexNum": 78
+  },
+  {
+    "rawDexNum": 79,
+    "ndex": 25,
+    "name": "Pikachu",
+    "types": [
+      "Electric"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+    "category": "regular",
+    "id": 79,
+    "dexNum": 79
+  },
+  {
+    "rawDexNum": 80,
+    "ndex": 26,
+    "name": "Raichu",
+    "types": [
+      "Electric"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+    "category": "regular",
+    "id": 80,
+    "dexNum": 80
+  },
+  {
+    "rawDexNum": 81,
+    "ndex": 41,
+    "name": "Zubat",
+    "types": [
+      "Poison",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
+    "category": "regular",
+    "id": 81,
+    "dexNum": 81
+  },
+  {
+    "rawDexNum": 82,
+    "ndex": 42,
+    "name": "Golbat",
+    "types": [
+      "Poison",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
+    "category": "regular",
+    "id": 82,
+    "dexNum": 82
+  },
+  {
+    "rawDexNum": 83,
+    "ndex": 169,
+    "name": "Crobat",
+    "types": [
+      "Poison",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png",
+    "category": "regular",
+    "id": 83,
+    "dexNum": 83
+  },
+  {
+    "rawDexNum": 84,
+    "ndex": 52,
+    "name": "Meowth",
+    "types": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+    "category": "regular",
+    "id": 84,
+    "dexNum": 84
+  },
+  {
+    "rawDexNum": 85,
+    "ndex": 53,
+    "name": "Persian",
+    "types": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
+    "category": "regular",
+    "id": 85,
+    "dexNum": 85
+  },
+  {
+    "rawDexNum": 86,
+    "ndex": 54,
+    "name": "Psyduck",
+    "types": [
+      "Water"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+    "category": "regular",
+    "id": 86,
+    "dexNum": 86
+  },
+  {
+    "rawDexNum": 87,
+    "ndex": 55,
+    "name": "Golduck",
+    "types": [
+      "Water"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
+    "category": "regular",
+    "id": 87,
+    "dexNum": 87
+  },
+  {
+    "rawDexNum": 88,
+    "ndex": 58,
+    "name": "Growlithe",
+    "types": [
+      "Fire"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
+    "category": "regular",
+    "id": 88,
+    "dexNum": 88
+  },
+  {
+    "rawDexNum": 89,
+    "ndex": 59,
+    "name": "Arcanine",
+    "types": [
+      "Fire"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
+    "category": "regular",
+    "id": 89,
+    "dexNum": 89
+  },
+  {
+    "rawDexNum": 90,
+    "ndex": 83,
+    "name": "Farfetch'd",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
+    "category": "regular",
+    "id": 90,
+    "dexNum": 90
+  },
+  {
+    "rawDexNum": 91,
+    "ndex": 88,
+    "name": "Grimer",
+    "types": [
+      "Poison"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
+    "category": "regular",
+    "id": 91,
+    "dexNum": 91
+  },
+  {
+    "rawDexNum": 92,
+    "ndex": 89,
+    "name": "Muk",
+    "types": [
+      "Poison"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
+    "category": "regular",
+    "id": 92,
+    "dexNum": 92
+  },
+  {
+    "rawDexNum": 93,
+    "ndex": 92,
+    "name": "Gastly",
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
+    "category": "regular",
+    "id": 93,
+    "dexNum": 93
+  },
+  {
+    "rawDexNum": 94,
+    "ndex": 93,
+    "name": "Haunter",
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
+    "category": "regular",
+    "id": 94,
+    "dexNum": 94
+  },
+  {
+    "rawDexNum": 95,
+    "ndex": 94,
+    "name": "Gengar",
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+    "category": "regular",
+    "id": 95,
+    "dexNum": 95
+  },
+  {
+    "rawDexNum": 96,
+    "ndex": 100,
+    "name": "Voltorb",
+    "types": [
+      "Electric"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
+    "category": "regular",
+    "id": 96,
+    "dexNum": 96
+  },
+  {
+    "rawDexNum": 97,
+    "ndex": 101,
+    "name": "Electrode",
+    "types": [
+      "Electric"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
+    "category": "regular",
+    "id": 97,
+    "dexNum": 97
+  },
+  {
+    "rawDexNum": 98,
+    "ndex": 102,
+    "name": "Exeggcute",
+    "types": [
+      "Grass",
+      "Psychic"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
+    "category": "regular",
+    "id": 98,
+    "dexNum": 98
+  },
+  {
+    "rawDexNum": 99,
+    "ndex": 103,
+    "name": "Exeggutor",
+    "types": [
+      "Grass",
+      "Psychic"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
+    "category": "regular",
+    "id": 99,
+    "dexNum": 99
+  },
+  {
+    "rawDexNum": 100,
+    "ndex": 440,
+    "name": "Happiny",
+    "types": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/440.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/440.png",
+    "category": "regular",
+    "id": 100,
+    "dexNum": 100
+  },
+  {
+    "rawDexNum": 101,
+    "ndex": 113,
+    "name": "Chansey",
+    "types": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
+    "category": "regular",
+    "id": 101,
+    "dexNum": 101
+  },
+  {
+    "rawDexNum": 102,
+    "ndex": 242,
+    "name": "Blissey",
+    "types": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/242.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png",
+    "category": "regular",
+    "id": 102,
+    "dexNum": 102
+  },
+  {
+    "rawDexNum": 103,
+    "ndex": 239,
+    "name": "Elekid",
+    "types": [
+      "Electric"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png",
+    "category": "regular",
+    "id": 103,
+    "dexNum": 103
+  },
+  {
+    "rawDexNum": 104,
+    "ndex": 125,
+    "name": "Electabuzz",
+    "types": [
+      "Electric"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
+    "category": "regular",
+    "id": 104,
+    "dexNum": 104
+  },
+  {
+    "rawDexNum": 105,
+    "ndex": 466,
+    "name": "Electivire",
+    "types": [
+      "Electric"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png",
+    "category": "regular",
+    "id": 105,
+    "dexNum": 105
+  },
+  {
+    "rawDexNum": 106,
+    "ndex": 131,
+    "name": "Lapras",
+    "types": [
+      "Water",
+      "Ice"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+    "category": "regular",
+    "id": 106,
+    "dexNum": 106
+  },
+  {
+    "rawDexNum": 107,
+    "ndex": 446,
+    "name": "Munchlax",
+    "types": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/446.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png",
+    "category": "regular",
+    "id": 107,
+    "dexNum": 107
+  },
+  {
+    "rawDexNum": 108,
+    "ndex": 143,
+    "name": "Snorlax",
+    "types": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+    "category": "regular",
+    "id": 108,
+    "dexNum": 108
+  },
+  {
+    "rawDexNum": 109,
+    "ndex": 167,
+    "name": "Spinarak",
+    "types": [
+      "Poison",
+      "Bug"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/167.png",
+    "category": "regular",
+    "id": 109,
+    "dexNum": 109
+  },
+  {
+    "rawDexNum": 110,
+    "ndex": 168,
+    "name": "Ariados",
+    "types": [
+      "Poison",
+      "Bug"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/168.png",
+    "category": "regular",
+    "id": 110,
+    "dexNum": 110
+  },
+  {
+    "rawDexNum": 111,
+    "ndex": 179,
+    "name": "Mareep",
+    "types": [
+      "Electric"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/179.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png",
+    "category": "regular",
+    "id": 111,
+    "dexNum": 111
+  },
+  {
+    "rawDexNum": 112,
+    "ndex": 180,
+    "name": "Flaaffy",
+    "types": [
+      "Electric"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png",
+    "category": "regular",
+    "id": 112,
+    "dexNum": 112
+  },
+  {
+    "rawDexNum": 113,
+    "ndex": 181,
+    "name": "Ampharos",
+    "types": [
+      "Electric"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png",
+    "category": "regular",
+    "id": 113,
+    "dexNum": 113
+  },
+  {
+    "rawDexNum": 114,
+    "ndex": 298,
+    "name": "Azurill",
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png",
+    "category": "regular",
+    "id": 114,
+    "dexNum": 114
+  },
+  {
+    "rawDexNum": 115,
+    "ndex": 183,
+    "name": "Marill",
+    "types": [
+      "Water",
+      "Fairy"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/183.png",
+    "category": "regular",
+    "id": 115,
+    "dexNum": 115
+  },
+  {
+    "rawDexNum": 116,
+    "ndex": 184,
+    "name": "Azumarill",
+    "types": [
+      "Water",
+      "Fairy"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png",
+    "category": "regular",
+    "id": 116,
+    "dexNum": 116
+  },
+  {
+    "rawDexNum": 117,
+    "ndex": 194,
+    "name": "Wooper",
+    "types": [
+      "Poison",
+      "Ground"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194.png",
+    "category": "regular",
+    "id": 117,
+    "dexNum": 117
+  },
+  {
+    "rawDexNum": 118,
+    "ndex": 980,
+    "name": "Clodsire",
+    "types": [
+      "Poison",
+      "Ground"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/980.png",
+    "category": "regular",
+    "id": 118,
+    "dexNum": 118
+  },
+  {
+    "rawDexNum": 119,
+    "ndex": 235,
+    "name": "Smeargle",
+    "types": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/235.png",
+    "category": "regular",
+    "id": 119,
+    "dexNum": 119
+  },
+  {
+    "rawDexNum": 120,
+    "ndex": 255,
+    "name": "Torchic",
+    "types": [
+      "Fire"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/255.png",
+    "category": "regular",
+    "id": 120,
+    "dexNum": 120
+  },
+  {
+    "rawDexNum": 121,
+    "ndex": 256,
+    "name": "Combusken",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/256.png",
+    "category": "regular",
+    "id": 121,
+    "dexNum": 121
+  },
+  {
+    "rawDexNum": 122,
+    "ndex": 257,
+    "name": "Blaziken",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/257.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png",
+    "category": "regular",
+    "id": 122,
+    "dexNum": 122
+  },
+  {
+    "rawDexNum": 123,
+    "ndex": 278,
+    "name": "Wingull",
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/278.png",
+    "category": "regular",
+    "id": 123,
+    "dexNum": 123
+  },
+  {
+    "rawDexNum": 124,
+    "ndex": 279,
+    "name": "Pelipper",
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png",
+    "category": "regular",
+    "id": 124,
+    "dexNum": 124
+  },
+  {
+    "rawDexNum": 125,
+    "ndex": 296,
+    "name": "Makuhita",
+    "types": [
+      "Fighting"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/296.png",
+    "category": "regular",
+    "id": 125,
+    "dexNum": 125
+  },
+  {
+    "rawDexNum": 126,
+    "ndex": 297,
+    "name": "Hariyama",
+    "types": [
+      "Fighting"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/297.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/297.png",
+    "category": "regular",
+    "id": 126,
+    "dexNum": 126
+  },
+  {
+    "rawDexNum": 127,
+    "ndex": 359,
+    "name": "Absol",
+    "types": [
+      "Dark"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/359.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/359.png",
+    "category": "regular",
+    "id": 127,
+    "dexNum": 127
+  },
+  {
+    "rawDexNum": 128,
+    "ndex": 393,
+    "name": "Piplup",
+    "types": [
+      "Water"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/393.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/393.png",
+    "category": "regular",
+    "id": 128,
+    "dexNum": 128
+  },
+  {
+    "rawDexNum": 129,
+    "ndex": 394,
+    "name": "Prinplup",
+    "types": [
+      "Water"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/394.png",
+    "category": "regular",
+    "id": 129,
+    "dexNum": 129
+  },
+  {
+    "rawDexNum": 130,
+    "ndex": 395,
+    "name": "Empoleon",
+    "types": [
+      "Water",
+      "Steel"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png",
+    "category": "regular",
+    "id": 130,
+    "dexNum": 130
+  },
+  {
+    "rawDexNum": 131,
+    "ndex": 531,
+    "name": "Audino",
+    "types": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/531.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/531.png",
+    "category": "regular",
+    "id": 131,
+    "dexNum": 131
+  },
+  {
+    "rawDexNum": 132,
+    "ndex": 568,
+    "name": "Trubbish",
+    "types": [
+      "Poison"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/568.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/568.png",
+    "category": "regular",
+    "id": 132,
+    "dexNum": 132
+  },
+  {
+    "rawDexNum": 133,
+    "ndex": 569,
+    "name": "Garbodor",
+    "types": [
+      "Poison"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/569.png",
+    "category": "regular",
+    "id": 133,
+    "dexNum": 133
+  },
+  {
+    "rawDexNum": 134,
+    "ndex": 570,
+    "name": "Zorua",
+    "types": [
+      "Dark"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/570.png",
+    "category": "regular",
+    "id": 134,
+    "dexNum": 134
+  },
+  {
+    "rawDexNum": 135,
+    "ndex": 571,
+    "name": "Zoroark",
+    "types": [
+      "Dark"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/571.png",
+    "category": "regular",
+    "id": 135,
+    "dexNum": 135
+  },
+  {
+    "rawDexNum": 136,
+    "ndex": 572,
+    "name": "Minccino",
+    "types": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/572.png",
+    "category": "regular",
+    "id": 136,
+    "dexNum": 136
+  },
+  {
+    "rawDexNum": 137,
+    "ndex": 573,
+    "name": "Cinccino",
+    "types": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/573.png",
+    "category": "regular",
+    "id": 137,
+    "dexNum": 137
+  },
+  {
+    "rawDexNum": 138,
+    "ndex": 736,
+    "name": "Grubbin",
+    "types": [
+      "Bug"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/736.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/736.png",
+    "category": "regular",
+    "id": 138,
+    "dexNum": 138
+  },
+  {
+    "rawDexNum": 139,
+    "ndex": 737,
+    "name": "Charjabug",
+    "types": [
+      "Bug",
+      "Electric"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/737.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/737.png",
+    "category": "regular",
+    "id": 139,
+    "dexNum": 139
+  },
+  {
+    "rawDexNum": 140,
+    "ndex": 738,
+    "name": "Vikavolt",
+    "types": [
+      "Bug",
+      "Electric"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/738.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/738.png",
+    "category": "regular",
+    "id": 140,
+    "dexNum": 140
+  },
+  {
+    "rawDexNum": 141,
+    "ndex": 778,
+    "name": "Mimikyu",
+    "types": [
+      "Ghost",
+      "Fairy"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/778.png",
+    "category": "regular",
+    "id": 141,
+    "dexNum": 141
+  },
+  {
+    "rawDexNum": 142,
+    "ndex": 921,
+    "name": "Pawmi",
+    "types": [
+      "Electric"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/921.png",
+    "category": "regular",
+    "id": 142,
+    "dexNum": 142
+  },
+  {
+    "rawDexNum": 143,
+    "ndex": 922,
+    "name": "Pawmo",
+    "types": [
+      "Electric"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/922.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/922.png",
+    "category": "regular",
+    "id": 143,
+    "dexNum": 143
+  },
+  {
+    "rawDexNum": 144,
+    "ndex": 923,
+    "name": "Pawmot",
+    "types": [
+      "Electric",
+      "Fighting"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/923.png",
+    "category": "regular",
+    "id": 144,
+    "dexNum": 144
+  },
+  {
+    "rawDexNum": 145,
+    "ndex": 978,
+    "name": "Tatsugiri",
+    "types": [
+      "Dragon",
+      "Water"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/978.png",
+    "category": "regular",
+    "id": 145,
+    "dexNum": 145
+  },
+  {
+    "rawDexNum": 146,
+    "ndex": 23,
+    "name": "Ekans",
+    "types": [
+      "Poison"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+    "category": "regular",
+    "id": 146,
+    "dexNum": 146
+  },
+  {
+    "rawDexNum": 147,
+    "ndex": 24,
+    "name": "Arbok",
+    "types": [
+      "Poison"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+    "category": "regular",
+    "id": 147,
+    "dexNum": 147
+  },
+  {
+    "rawDexNum": 148,
+    "ndex": 173,
+    "name": "Cleffa",
+    "types": [
+      "Fairy"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/173.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/173.png",
+    "category": "regular",
+    "id": 148,
+    "dexNum": 148
+  },
+  {
+    "rawDexNum": 149,
+    "ndex": 35,
+    "name": "Clefairy",
+    "types": [
+      "Fairy"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
+    "category": "regular",
+    "id": 149,
+    "dexNum": 149
+  },
+  {
+    "rawDexNum": 150,
+    "ndex": 36,
+    "name": "Clefable",
+    "types": [
+      "Fairy"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
+    "category": "regular",
+    "id": 150,
+    "dexNum": 150
+  },
+  {
+    "rawDexNum": 151,
+    "ndex": 174,
+    "name": "Igglybuff",
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/174.png",
+    "category": "regular",
+    "id": 151,
+    "dexNum": 151
+  },
+  {
+    "rawDexNum": 152,
+    "ndex": 39,
+    "name": "Jigglypuff",
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+    "category": "regular",
+    "id": 152,
+    "dexNum": 152
+  },
+  {
+    "rawDexNum": 153,
+    "ndex": 40,
+    "name": "Wigglytuff",
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
+    "category": "regular",
+    "id": 153,
+    "dexNum": 153
+  },
+  {
+    "rawDexNum": 154,
+    "ndex": 50,
+    "name": "Diglett",
+    "types": [
+      "Ground"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
+    "category": "regular",
+    "id": 154,
+    "dexNum": 154
+  },
+  {
+    "rawDexNum": 155,
+    "ndex": 51,
+    "name": "Dugtrio",
+    "types": [
+      "Ground"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
+    "category": "regular",
+    "id": 155,
+    "dexNum": 155
+  },
+  {
+    "rawDexNum": 156,
+    "ndex": 66,
+    "name": "Machop",
+    "types": [
+      "Fighting"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
+    "category": "regular",
+    "id": 156,
+    "dexNum": 156
+  },
+  {
+    "rawDexNum": 157,
+    "ndex": 67,
+    "name": "Machoke",
+    "types": [
+      "Fighting"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
+    "category": "regular",
+    "id": 157,
+    "dexNum": 157
+  },
+  {
+    "rawDexNum": 158,
+    "ndex": 68,
+    "name": "Machamp",
+    "types": [
+      "Fighting"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
+    "category": "regular",
+    "id": 158,
+    "dexNum": 158
+  },
+  {
+    "rawDexNum": 159,
+    "ndex": 74,
+    "name": "Geodude",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
+    "category": "regular",
+    "id": 159,
+    "dexNum": 159
+  },
+  {
+    "rawDexNum": 160,
+    "ndex": 75,
+    "name": "Graveler",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
+    "category": "regular",
+    "id": 160,
+    "dexNum": 160
+  },
+  {
+    "rawDexNum": 161,
+    "ndex": 76,
+    "name": "Golem",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
+    "category": "regular",
+    "id": 161,
+    "dexNum": 161
+  },
+  {
+    "rawDexNum": 162,
+    "ndex": 240,
+    "name": "Magby",
+    "types": [
+      "Fire"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png",
+    "category": "regular",
+    "id": 162,
+    "dexNum": 162
+  },
+  {
+    "rawDexNum": 163,
+    "ndex": 126,
+    "name": "Magmar",
+    "types": [
+      "Fire"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
+    "category": "regular",
+    "id": 163,
+    "dexNum": 163
+  },
+  {
+    "rawDexNum": 164,
+    "ndex": 467,
+    "name": "Magmortar",
+    "types": [
+      "Fire"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/467.png",
+    "category": "regular",
+    "id": 164,
+    "dexNum": 164
+  },
+  {
+    "rawDexNum": 165,
+    "ndex": 438,
+    "name": "Bonsly",
+    "types": [
+      "Rock"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/438.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/438.png",
+    "category": "regular",
+    "id": 165,
+    "dexNum": 165
+  },
+  {
+    "rawDexNum": 166,
+    "ndex": 185,
+    "name": "Sudowoodo",
+    "types": [
+      "Rock"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/185.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/185.png",
+    "category": "regular",
+    "id": 166,
+    "dexNum": 166
+  },
+  {
+    "rawDexNum": 167,
+    "ndex": 198,
+    "name": "Murkrow",
+    "types": [
+      "Dark",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/198.png",
+    "category": "regular",
+    "id": 167,
+    "dexNum": 167
+  },
+  {
+    "rawDexNum": 168,
+    "ndex": 430,
+    "name": "Honchkrow",
+    "types": [
+      "Dark",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/430.png",
+    "category": "regular",
+    "id": 168,
+    "dexNum": 168
+  },
+  {
+    "rawDexNum": 169,
+    "ndex": 246,
+    "name": "Larvitar",
+    "types": [
+      "Ground",
+      "Rock"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/246.png",
+    "category": "regular",
+    "id": 169,
+    "dexNum": 169
+  },
+  {
+    "rawDexNum": 170,
+    "ndex": 247,
+    "name": "Pupitar",
+    "types": [
+      "Ground",
+      "Rock"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/247.png",
+    "category": "regular",
+    "id": 170,
+    "dexNum": 170
+  },
+  {
+    "rawDexNum": 171,
+    "ndex": 248,
+    "name": "Tyranitar",
+    "types": [
+      "Rock",
+      "Dark"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png",
+    "category": "regular",
+    "id": 171,
+    "dexNum": 171
+  },
+  {
+    "rawDexNum": 172,
+    "ndex": 270,
+    "name": "Lotad",
+    "types": [
+      "Water",
+      "Grass"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/270.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/270.png",
+    "category": "regular",
+    "id": 172,
+    "dexNum": 172
+  },
+  {
+    "rawDexNum": 173,
+    "ndex": 271,
+    "name": "Lombre",
+    "types": [
+      "Water",
+      "Grass"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/271.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/271.png",
+    "category": "regular",
+    "id": 173,
+    "dexNum": 173
+  },
+  {
+    "rawDexNum": 174,
+    "ndex": 272,
+    "name": "Ludicolo",
+    "types": [
+      "Water",
+      "Grass"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/272.png",
+    "category": "regular",
+    "id": 174,
+    "dexNum": 174
+  },
+  {
+    "rawDexNum": 175,
+    "ndex": 303,
+    "name": "Mawile",
+    "types": [
+      "Steel",
+      "Fairy"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/303.png",
+    "category": "regular",
+    "id": 175,
+    "dexNum": 175
+  },
+  {
+    "rawDexNum": 176,
+    "ndex": 324,
+    "name": "Torkoal",
+    "types": [
+      "Fire"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png",
+    "category": "regular",
+    "id": 176,
+    "dexNum": 176
+  },
+  {
+    "rawDexNum": 177,
+    "ndex": 401,
+    "name": "Kricketot",
+    "types": [
+      "Bug"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/401.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/401.png",
+    "category": "regular",
+    "id": 177,
+    "dexNum": 177
+  },
+  {
+    "rawDexNum": 178,
+    "ndex": 402,
+    "name": "Kricketune",
+    "types": [
+      "Bug"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/402.png",
+    "category": "regular",
+    "id": 178,
+    "dexNum": 178
+  },
+  {
+    "rawDexNum": 179,
+    "ndex": 441,
+    "name": "Chatot",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png",
+    "category": "regular",
+    "id": 179,
+    "dexNum": 179
+  },
+  {
+    "rawDexNum": 180,
+    "ndex": 447,
+    "name": "Riolu",
+    "types": [
+      "Fighting"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/447.png",
+    "category": "regular",
+    "id": 180,
+    "dexNum": 180
+  },
+  {
+    "rawDexNum": 181,
+    "ndex": 448,
+    "name": "Lucario",
+    "types": [
+      "Fighting",
+      "Steel"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png",
+    "category": "regular",
+    "id": 181,
+    "dexNum": 181
+  },
+  {
+    "rawDexNum": 182,
+    "ndex": 479,
+    "name": "Rotom",
+    "types": [
+      "Electric",
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/479.png",
+    "category": "regular",
+    "id": 182,
+    "dexNum": 182
+  },
+  {
+    "rawDexNum": 183,
+    "ndex": 636,
+    "name": "Larvesta",
+    "types": [
+      "Bug",
+      "Fire"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/636.png",
+    "category": "regular",
+    "id": 183,
+    "dexNum": 183
+  },
+  {
+    "rawDexNum": 184,
+    "ndex": 637,
+    "name": "Volcarona",
+    "types": [
+      "Bug",
+      "Fire"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/637.png",
+    "category": "regular",
+    "id": 184,
+    "dexNum": 184
+  },
+  {
+    "rawDexNum": 185,
+    "ndex": 722,
+    "name": "Rowlet",
+    "types": [
+      "Grass",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/722.png",
+    "category": "regular",
+    "id": 185,
+    "dexNum": 185
+  },
+  {
+    "rawDexNum": 185,
+    "ndex": 723,
+    "name": "Dartrix",
+    "types": [
+      "Grass",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/723.png",
+    "category": "regular",
+    "id": 186,
+    "dexNum": 186
+  },
+  {
+    "rawDexNum": 185,
+    "ndex": 724,
+    "name": "Decidueye",
+    "types": [
+      "Grass",
+      "Ghost"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/724.png",
+    "category": "regular",
+    "id": 187,
+    "dexNum": 187
+  },
+  {
+    "rawDexNum": 188,
+    "ndex": 813,
+    "name": "Scorbunny",
+    "types": [
+      "Fire"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/813.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/813.png",
+    "category": "regular",
+    "id": 188,
+    "dexNum": 188
+  },
+  {
+    "rawDexNum": 189,
+    "ndex": 814,
+    "name": "Raboot",
+    "types": [
+      "Fire"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/814.png",
+    "category": "regular",
+    "id": 189,
+    "dexNum": 189
+  },
+  {
+    "rawDexNum": 190,
+    "ndex": 815,
+    "name": "Cinderace",
+    "types": [
+      "Fire"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/815.png",
+    "category": "regular",
+    "id": 190,
+    "dexNum": 190
+  },
+  {
+    "rawDexNum": 191,
+    "ndex": 819,
+    "name": "Skwovet",
+    "types": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/819.png",
+    "category": "regular",
+    "id": 191,
+    "dexNum": 191
+  },
+  {
+    "rawDexNum": 192,
+    "ndex": 820,
+    "name": "Greedent",
+    "types": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/820.png",
+    "category": "regular",
+    "id": 192,
+    "dexNum": 192
+  },
+  {
+    "rawDexNum": 193,
+    "ndex": 837,
+    "name": "Rolycoly",
+    "types": [
+      "Rock"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/837.png",
+    "category": "regular",
+    "id": 193,
+    "dexNum": 193
+  },
+  {
+    "rawDexNum": 194,
+    "ndex": 838,
+    "name": "Carkol",
+    "types": [
+      "Fire",
+      "Rock"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/838.png",
+    "category": "regular",
+    "id": 194,
+    "dexNum": 194
+  },
+  {
+    "rawDexNum": 195,
+    "ndex": 839,
+    "name": "Coalossal",
+    "types": [
+      "Fire",
+      "Rock"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/839.png",
+    "category": "regular",
+    "id": 195,
+    "dexNum": 195
+  },
+  {
+    "rawDexNum": 196,
+    "ndex": 848,
+    "name": "Toxel",
+    "types": [
+      "Electric",
+      "Poison"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/848.png",
+    "category": "regular",
+    "id": 196,
+    "dexNum": 196
+  },
+  {
+    "rawDexNum": 197,
+    "ndex": 849,
+    "name": "Toxtricity",
+    "types": [
+      "Electric",
+      "Poison"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/849.png",
+    "category": "regular",
+    "id": 197,
+    "dexNum": 197
+  },
+  {
+    "rawDexNum": 198,
+    "ndex": 926,
+    "name": "Fidough",
+    "types": [
+      "Fairy"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/926.png",
+    "category": "regular",
+    "id": 198,
+    "dexNum": 198
+  },
+  {
+    "rawDexNum": 199,
+    "ndex": 927,
+    "name": "Dachsbun",
+    "types": [
+      "Fairy"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/927.png",
+    "category": "regular",
+    "id": 199,
+    "dexNum": 199
+  },
+  {
+    "rawDexNum": 200,
+    "ndex": 935,
+    "name": "Charcadet",
+    "types": [
+      "Fire"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/935.png",
+    "category": "regular",
+    "id": 200,
+    "dexNum": 200
+  },
+  {
+    "rawDexNum": 201,
+    "ndex": 936,
+    "name": "Armarouge",
+    "types": [
+      "Fire",
+      "Psychic"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/936.png",
+    "category": "regular",
+    "id": 201,
+    "dexNum": 201
+  },
+  {
+    "rawDexNum": 202,
+    "ndex": 937,
+    "name": "Ceruledge",
+    "types": [
+      "Fire",
+      "Ghost"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/937.png",
+    "category": "regular",
+    "id": 202,
+    "dexNum": 202
+  },
+  {
+    "rawDexNum": 203,
+    "ndex": 969,
+    "name": "Glimmet",
+    "types": [
+      "Poison",
+      "Rock"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/969.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/969.png",
+    "category": "regular",
+    "id": 203,
+    "dexNum": 203
+  },
+  {
+    "rawDexNum": 204,
+    "ndex": 970,
+    "name": "Glimmora",
+    "types": [
+      "Poison",
+      "Rock"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/970.png",
+    "category": "regular",
+    "id": 204,
+    "dexNum": 204
+  },
+  {
+    "rawDexNum": 205,
+    "ndex": 999,
+    "name": "Gimmighoul",
+    "types": [
+      "Ghost"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/999.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/999.png",
+    "category": "regular",
+    "id": 205,
+    "dexNum": 205
+  },
+  {
+    "rawDexNum": 206,
+    "ndex": 1000,
+    "name": "Gholdengo",
+    "types": [
+      "Ghost",
+      "Steel"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1000.png",
+    "category": "regular",
+    "id": 206,
+    "dexNum": 206
+  },
+  {
+    "rawDexNum": 207,
+    "ndex": 37,
+    "name": "Vulpix",
+    "types": [
+      "Fire"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+    "category": "regular",
+    "id": 207,
+    "dexNum": 207
+  },
+  {
+    "rawDexNum": 208,
+    "ndex": 38,
+    "name": "Ninetales",
+    "types": [
+      "Fire"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+    "category": "regular",
+    "id": 208,
+    "dexNum": 208
+  },
+  {
+    "rawDexNum": 209,
+    "ndex": 60,
+    "name": "Poliwag",
+    "types": [
+      "Water"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
+    "category": "regular",
+    "id": 209,
+    "dexNum": 209
+  },
+  {
+    "rawDexNum": 210,
+    "ndex": 61,
+    "name": "Poliwhirl",
+    "types": [
+      "Water"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
+    "category": "regular",
+    "id": 210,
+    "dexNum": 210
+  },
+  {
+    "rawDexNum": 211,
+    "ndex": 62,
+    "name": "Poliwrath",
+    "types": [
+      "Water",
+      "Fighting"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
+    "category": "regular",
+    "id": 211,
+    "dexNum": 211
+  },
+  {
+    "rawDexNum": 212,
+    "ndex": 186,
+    "name": "Politoed",
+    "types": [
+      "Water"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/186.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/186.png",
+    "category": "regular",
+    "id": 212,
+    "dexNum": 212
+  },
+  {
+    "rawDexNum": 213,
+    "ndex": 63,
+    "name": "Abra",
+    "types": [
+      "Psychic"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
+    "category": "regular",
+    "id": 213,
+    "dexNum": 213
+  },
+  {
+    "rawDexNum": 214,
+    "ndex": 64,
+    "name": "Kadabra",
+    "types": [
+      "Psychic"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
+    "category": "regular",
+    "id": 214,
+    "dexNum": 214
+  },
+  {
+    "rawDexNum": 215,
+    "ndex": 65,
+    "name": "Alakazam",
+    "types": [
+      "Psychic"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+    "category": "regular",
+    "id": 215,
+    "dexNum": 215
+  },
+  {
+    "rawDexNum": 216,
+    "ndex": 439,
+    "name": "Mime Jr.",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/439.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png",
+    "category": "regular",
+    "id": 216,
+    "dexNum": 216
+  },
+  {
+    "rawDexNum": 217,
+    "ndex": 122,
+    "name": "Mr. Mime",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
+    "category": "regular",
+    "id": 217,
+    "dexNum": 217
+  },
+  {
+    "rawDexNum": 218,
+    "ndex": 137,
+    "name": "Porygon",
+    "types": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
+    "category": "regular",
+    "id": 218,
+    "dexNum": 218
+  },
+  {
+    "rawDexNum": 219,
+    "ndex": 233,
+    "name": "Porygon2",
+    "types": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/233.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png",
+    "category": "regular",
+    "id": 219,
+    "dexNum": 219
+  },
+  {
+    "rawDexNum": 220,
+    "ndex": 474,
+    "name": "Porygon-Z",
+    "types": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/474.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/474.png",
+    "category": "regular",
+    "id": 220,
+    "dexNum": 220
+  },
+  {
+    "rawDexNum": 221,
+    "ndex": 147,
+    "name": "Dratini",
+    "types": [
+      "Dragon"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
+    "category": "regular",
+    "id": 221,
+    "dexNum": 221
+  },
+  {
+    "rawDexNum": 222,
+    "ndex": 148,
+    "name": "Dragonair",
+    "types": [
+      "Dragon"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
+    "category": "regular",
+    "id": 222,
+    "dexNum": 222
+  },
+  {
+    "rawDexNum": 223,
+    "ndex": 149,
+    "name": "Dragonite",
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+    "category": "regular",
+    "id": 223,
+    "dexNum": 223
+  },
+  {
+    "rawDexNum": 224,
+    "ndex": 155,
+    "name": "Cyndaquil",
+    "types": [
+      "Fire"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png",
+    "category": "regular",
+    "id": 224,
+    "dexNum": 224
+  },
+  {
+    "rawDexNum": 225,
+    "ndex": 156,
+    "name": "Quilava",
+    "types": [
+      "Fire"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/156.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png",
+    "category": "regular",
+    "id": 225,
+    "dexNum": 225
+  },
+  {
+    "rawDexNum": 226,
+    "ndex": 157,
+    "name": "Typhlosion",
+    "types": [
+      "Fire"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/157.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png",
+    "category": "regular",
+    "id": 226,
+    "dexNum": 226
+  },
+  {
+    "rawDexNum": 227,
+    "ndex": 200,
+    "name": "Misdreavus",
+    "types": [
+      "Ghost"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/200.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png",
+    "category": "regular",
+    "id": 227,
+    "dexNum": 227
+  },
+  {
+    "rawDexNum": 228,
+    "ndex": 429,
+    "name": "Mismagius",
+    "types": [
+      "Ghost"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/429.png",
+    "category": "regular",
+    "id": 228,
+    "dexNum": 228
+  },
+  {
+    "rawDexNum": 229,
+    "ndex": 203,
+    "name": "Girafarig",
+    "types": [
+      "Normal",
+      "Psychic"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/203.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png",
+    "category": "regular",
+    "id": 229,
+    "dexNum": 229
+  },
+  {
+    "rawDexNum": 230,
+    "ndex": 981,
+    "name": "Farigiraf",
+    "types": [
+      "Normal",
+      "Psychic"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/981.png",
+    "category": "regular",
+    "id": 230,
+    "dexNum": 230
+  },
+  {
+    "rawDexNum": 231,
+    "ndex": 280,
+    "name": "Ralts",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/280.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png",
+    "category": "regular",
+    "id": 231,
+    "dexNum": 231
+  },
+  {
+    "rawDexNum": 232,
+    "ndex": 281,
+    "name": "Kirlia",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/281.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/281.png",
+    "category": "regular",
+    "id": 232,
+    "dexNum": 232
+  },
+  {
+    "rawDexNum": 233,
+    "ndex": 282,
+    "name": "Gardevoir",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png",
+    "category": "regular",
+    "id": 233,
+    "dexNum": 233
+  },
+  {
+    "rawDexNum": 234,
+    "ndex": 475,
+    "name": "Gallade",
+    "types": [
+      "Psychic",
+      "Fighting"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/475.png",
+    "category": "regular",
+    "id": 234,
+    "dexNum": 234
+  },
+  {
+    "rawDexNum": 235,
+    "ndex": 311,
+    "name": "Plusle",
+    "types": [
+      "Electric"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/311.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/311.png",
+    "category": "regular",
+    "id": 235,
+    "dexNum": 235
+  },
+  {
+    "rawDexNum": 236,
+    "ndex": 312,
+    "name": "Minun",
+    "types": [
+      "Electric"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/312.png",
+    "category": "regular",
+    "id": 236,
+    "dexNum": 236
+  },
+  {
+    "rawDexNum": 237,
+    "ndex": 328,
+    "name": "Trapinch",
+    "types": [
+      "Ground"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/328.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/328.png",
+    "category": "regular",
+    "id": 237,
+    "dexNum": 237
+  },
+  {
+    "rawDexNum": 238,
+    "ndex": 329,
+    "name": "Vibrava",
+    "types": [
+      "Ground",
+      "Dragon"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/329.png",
+    "category": "regular",
+    "id": 238,
+    "dexNum": 238
+  },
+  {
+    "rawDexNum": 239,
+    "ndex": 330,
+    "name": "Flygon",
+    "types": [
+      "Ground",
+      "Dragon"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/330.png",
+    "category": "regular",
+    "id": 239,
+    "dexNum": 239
+  },
+  {
+    "rawDexNum": 240,
+    "ndex": 333,
+    "name": "Swablu",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/333.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/333.png",
+    "category": "regular",
+    "id": 240,
+    "dexNum": 240
+  },
+  {
+    "rawDexNum": 241,
+    "ndex": 334,
+    "name": "Altaria",
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334.png",
+    "category": "regular",
+    "id": 241,
+    "dexNum": 241
+  },
+  {
+    "rawDexNum": 242,
+    "ndex": 355,
+    "name": "Duskull",
+    "types": [
+      "Ghost"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/355.png",
+    "category": "regular",
+    "id": 242,
+    "dexNum": 242
+  },
+  {
+    "rawDexNum": 243,
+    "ndex": 356,
+    "name": "Dusclops",
+    "types": [
+      "Ghost"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/356.png",
+    "category": "regular",
+    "id": 243,
+    "dexNum": 243
+  },
+  {
+    "rawDexNum": 244,
+    "ndex": 477,
+    "name": "Dusknoir",
+    "types": [
+      "Ghost"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/477.png",
+    "category": "regular",
+    "id": 244,
+    "dexNum": 244
+  },
+  {
+    "rawDexNum": 245,
+    "ndex": 374,
+    "name": "Beldum",
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/374.png",
+    "category": "regular",
+    "id": 245,
+    "dexNum": 245
+  },
+  {
+    "rawDexNum": 246,
+    "ndex": 375,
+    "name": "Metang",
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png",
+    "category": "regular",
+    "id": 246,
+    "dexNum": 246
+  },
+  {
+    "rawDexNum": 247,
+    "ndex": 376,
+    "name": "Metagross",
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png",
+    "category": "regular",
+    "id": 247,
+    "dexNum": 247
+  },
+  {
+    "rawDexNum": 248,
+    "ndex": 495,
+    "name": "Snivy",
+    "types": [
+      "Grass"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/495.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/495.png",
+    "category": "regular",
+    "id": 248,
+    "dexNum": 248
+  },
+  {
+    "rawDexNum": 249,
+    "ndex": 496,
+    "name": "Servine",
+    "types": [
+      "Grass"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/496.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/496.png",
+    "category": "regular",
+    "id": 249,
+    "dexNum": 249
+  },
+  {
+    "rawDexNum": 250,
+    "ndex": 497,
+    "name": "Serperior",
+    "types": [
+      "Grass"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/497.png",
+    "category": "regular",
+    "id": 250,
+    "dexNum": 250
+  },
+  {
+    "rawDexNum": 251,
+    "ndex": 656,
+    "name": "Froakie",
+    "types": [
+      "Water"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/656.png",
+    "category": "regular",
+    "id": 251,
+    "dexNum": 251
+  },
+  {
+    "rawDexNum": 252,
+    "ndex": 657,
+    "name": "Frogadier",
+    "types": [
+      "Water"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/657.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/657.png",
+    "category": "regular",
+    "id": 252,
+    "dexNum": 252
+  },
+  {
+    "rawDexNum": 253,
+    "ndex": 658,
+    "name": "Greninja",
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/658.png",
+    "category": "regular",
+    "id": 253,
+    "dexNum": 253
+  },
+  {
+    "rawDexNum": 254,
+    "ndex": 702,
+    "name": "Dedenne",
+    "types": [
+      "Electric",
+      "Fairy"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/702.png",
+    "category": "regular",
+    "id": 254,
+    "dexNum": 254
+  },
+  {
+    "rawDexNum": 255,
+    "ndex": 714,
+    "name": "Noibat",
+    "types": [
+      "Flying",
+      "Dragon"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/714.png",
+    "category": "regular",
+    "id": 255,
+    "dexNum": 255
+  },
+  {
+    "rawDexNum": 256,
+    "ndex": 715,
+    "name": "Noivern",
+    "types": [
+      "Flying",
+      "Dragon"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/715.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/715.png",
+    "category": "regular",
+    "id": 256,
+    "dexNum": 256
+  },
+  {
+    "rawDexNum": 257,
+    "ndex": 821,
+    "name": "Rookidee",
+    "types": [
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/821.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/821.png",
+    "category": "regular",
+    "id": 257,
+    "dexNum": 257
+  },
+  {
+    "rawDexNum": 258,
+    "ndex": 822,
+    "name": "Corvisquire",
+    "types": [
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/822.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/822.png",
+    "category": "regular",
+    "id": 258,
+    "dexNum": 258
+  },
+  {
+    "rawDexNum": 259,
+    "ndex": 823,
+    "name": "Corviknight",
+    "types": [
+      "Flying",
+      "Steel"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/823.png",
+    "category": "regular",
+    "id": 259,
+    "dexNum": 259
+  },
+  {
+    "rawDexNum": 260,
+    "ndex": 885,
+    "name": "Dreepy",
+    "types": [
+      "Dragon",
+      "Ghost"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/885.png",
+    "category": "regular",
+    "id": 260,
+    "dexNum": 260
+  },
+  {
+    "rawDexNum": 261,
+    "ndex": 886,
+    "name": "Drakloak",
+    "types": [
+      "Dragon",
+      "Ghost"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/886.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/886.png",
+    "category": "regular",
+    "id": 261,
+    "dexNum": 261
+  },
+  {
+    "rawDexNum": 262,
+    "ndex": 887,
+    "name": "Dragapult",
+    "types": [
+      "Dragon",
+      "Ghost"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/887.png",
+    "category": "regular",
+    "id": 262,
+    "dexNum": 262
+  },
+  {
+    "rawDexNum": 263,
+    "ndex": 906,
+    "name": "Sprigatito",
+    "types": [
+      "Grass"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/906.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/906.png",
+    "category": "regular",
+    "id": 263,
+    "dexNum": 263
+  },
+  {
+    "rawDexNum": 264,
+    "ndex": 907,
+    "name": "Floragato",
+    "types": [
+      "Grass"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/907.png",
+    "category": "regular",
+    "id": 264,
+    "dexNum": 264
+  },
+  {
+    "rawDexNum": 265,
+    "ndex": 908,
+    "name": "Meowscarada",
+    "types": [
+      "Grass",
+      "Dark"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/908.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/908.png",
+    "category": "regular",
+    "id": 265,
+    "dexNum": 265
+  },
+  {
+    "rawDexNum": 266,
+    "ndex": 940,
+    "name": "Wattrel",
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/940.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/940.png",
+    "category": "regular",
+    "id": 266,
+    "dexNum": 266
+  },
+  {
+    "rawDexNum": 267,
+    "ndex": 941,
+    "name": "Kilowattrel",
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/941.png",
+    "category": "regular",
+    "id": 267,
+    "dexNum": 267
+  },
+  {
+    "rawDexNum": 268,
+    "ndex": 957,
+    "name": "Tinkatink",
+    "types": [
+      "Fairy",
+      "Steel"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/957.png",
+    "category": "regular",
+    "id": 268,
+    "dexNum": 268
+  },
+  {
+    "rawDexNum": 269,
+    "ndex": 958,
+    "name": "Tinkatuff",
+    "types": [
+      "Fairy",
+      "Steel"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/958.png",
+    "category": "regular",
+    "id": 269,
+    "dexNum": 269
+  },
+  {
+    "rawDexNum": 270,
+    "ndex": 959,
+    "name": "Tinkaton",
+    "types": [
+      "Fairy",
+      "Steel"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/959.png",
+    "category": "regular",
+    "id": 270,
+    "dexNum": 270
+  },
+  {
+    "rawDexNum": 271,
+    "ndex": 142,
+    "name": "Aerodactyl",
+    "types": [
+      "Rock",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
+    "category": "regular",
+    "id": 271,
+    "dexNum": 271
+  },
+  {
+    "rawDexNum": 272,
+    "ndex": 408,
+    "name": "Cranidos",
+    "types": [
+      "Rock"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/408.png",
+    "category": "regular",
+    "id": 272,
+    "dexNum": 272
+  },
+  {
+    "rawDexNum": 273,
+    "ndex": 409,
+    "name": "Rampardos",
+    "types": [
+      "Rock"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/409.png",
+    "category": "regular",
+    "id": 273,
+    "dexNum": 273
+  },
+  {
+    "rawDexNum": 274,
+    "ndex": 410,
+    "name": "Shieldon",
+    "types": [
+      "Rock",
+      "Steel"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/410.png",
+    "category": "regular",
+    "id": 274,
+    "dexNum": 274
+  },
+  {
+    "rawDexNum": 275,
+    "ndex": 411,
+    "name": "Bastiodon",
+    "types": [
+      "Rock",
+      "Steel"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/411.png",
+    "category": "regular",
+    "id": 275,
+    "dexNum": 275
+  },
+  {
+    "rawDexNum": 276,
+    "ndex": 696,
+    "name": "Tyrunt",
+    "types": [
+      "Rock",
+      "Dragon"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/696.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/696.png",
+    "category": "regular",
+    "id": 276,
+    "dexNum": 276
+  },
+  {
+    "rawDexNum": 277,
+    "ndex": 697,
+    "name": "Tyrantrum",
+    "types": [
+      "Rock",
+      "Dragon"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/697.png",
+    "category": "regular",
+    "id": 277,
+    "dexNum": 277
+  },
+  {
+    "rawDexNum": 278,
+    "ndex": 698,
+    "name": "Amaura",
+    "types": [
+      "Rock",
+      "Ice"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/698.png",
+    "category": "regular",
+    "id": 278,
+    "dexNum": 278
+  },
+  {
+    "rawDexNum": 279,
+    "ndex": 699,
+    "name": "Aurorus",
+    "types": [
+      "Rock",
+      "Ice"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/699.png",
+    "category": "regular",
+    "id": 279,
+    "dexNum": 279
+  },
+  {
+    "rawDexNum": 280,
+    "ndex": 133,
+    "name": "Eevee",
+    "types": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+    "category": "regular",
+    "id": 280,
+    "dexNum": 280
+  },
+  {
+    "rawDexNum": 281,
+    "ndex": 134,
+    "name": "Vaporeon",
+    "types": [
+      "Water"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
+    "category": "regular",
+    "id": 281,
+    "dexNum": 281
+  },
+  {
+    "rawDexNum": 282,
+    "ndex": 135,
+    "name": "Jolteon",
+    "types": [
+      "Electric"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
+    "category": "regular",
+    "id": 282,
+    "dexNum": 282
+  },
+  {
+    "rawDexNum": 283,
+    "ndex": 136,
+    "name": "Flareon",
+    "types": [
+      "Fire"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
+    "category": "regular",
+    "id": 283,
+    "dexNum": 283
+  },
+  {
+    "rawDexNum": 284,
+    "ndex": 196,
+    "name": "Espeon",
+    "types": [
+      "Psychic"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png",
+    "category": "regular",
+    "id": 284,
+    "dexNum": 284
+  },
+  {
+    "rawDexNum": 285,
+    "ndex": 197,
+    "name": "Umbreon",
+    "types": [
+      "Dark"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png",
+    "category": "regular",
+    "id": 285,
+    "dexNum": 285
+  },
+  {
+    "rawDexNum": 286,
+    "ndex": 470,
+    "name": "Leafeon",
+    "types": [
+      "Grass"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/470.png",
+    "category": "regular",
+    "id": 286,
+    "dexNum": 286
+  },
+  {
+    "rawDexNum": 287,
+    "ndex": 471,
+    "name": "Glaceon",
+    "types": [
+      "Ice"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/471.png",
+    "category": "regular",
+    "id": 287,
+    "dexNum": 287
+  },
+  {
+    "rawDexNum": 288,
+    "ndex": 700,
+    "name": "Sylveon",
+    "types": [
+      "Fairy"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/700.png",
+    "category": "regular",
+    "id": 288,
+    "dexNum": 288
+  },
+  {
+    "rawDexNum": 289,
+    "ndex": 382,
+    "name": "Kyogre",
+    "types": [
+      "Water"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/382.png",
+    "category": "regular",
+    "id": 289,
+    "dexNum": 289
+  },
+  {
+    "rawDexNum": 290,
+    "ndex": 243,
+    "name": "Raikou",
+    "types": [
+      "Electric"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/243.png",
+    "category": "regular",
+    "id": 290,
+    "dexNum": 290
+  },
+  {
+    "rawDexNum": 291,
+    "ndex": 244,
+    "name": "Entei",
+    "types": [
+      "Fire"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png",
+    "category": "regular",
+    "id": 291,
+    "dexNum": 291
+  },
+  {
+    "rawDexNum": 292,
+    "ndex": 245,
+    "name": "Suicune",
+    "types": [
+      "Water"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/245.png",
+    "category": "regular",
+    "id": 292,
+    "dexNum": 292
+  },
+  {
+    "rawDexNum": 293,
+    "ndex": 721,
+    "name": "Volcanion",
+    "types": [
+      "Fire",
+      "Water"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/721.png",
+    "category": "regular",
+    "id": 293,
+    "dexNum": 293
+  },
+  {
+    "rawDexNum": 294,
+    "ndex": 144,
+    "name": "Articuno",
+    "types": [
+      "Ice",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
+    "category": "regular",
+    "id": 294,
+    "dexNum": 294
+  },
+  {
+    "rawDexNum": 295,
+    "ndex": 145,
+    "name": "Zapdos",
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
+    "category": "regular",
+    "id": 295,
+    "dexNum": 295
+  },
+  {
+    "rawDexNum": 296,
+    "ndex": 146,
+    "name": "Moltres",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
+    "category": "regular",
+    "id": 296,
+    "dexNum": 296
+  },
+  {
+    "rawDexNum": 297,
+    "ndex": 249,
+    "name": "Lugia",
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png",
+    "category": "regular",
+    "id": 297,
+    "dexNum": 297
+  },
+  {
+    "rawDexNum": 298,
+    "ndex": 250,
+    "name": "Ho-Oh",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png",
+    "category": "regular",
+    "id": 298,
+    "dexNum": 298
+  },
+  {
+    "rawDexNum": 299,
+    "ndex": 150,
+    "name": "Mewtwo",
+    "types": [
+      "Psychic"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+    "category": "regular",
+    "id": 299,
+    "dexNum": 299
+  },
+  {
+    "rawDexNum": 300,
+    "ndex": 151,
+    "name": "Mew",
+    "types": [
+      "Psychic"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
+    "category": "regular",
+    "id": 300,
+    "dexNum": 300
+  },
+  {
+    "rawDexNum": 1,
+    "ndex": 187,
+    "name": "Hoppip",
+    "types": [
+      "Grass",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/187.png",
+    "category": "event",
+    "id": "E1",
+    "dexNum": 1
+  },
+  {
+    "rawDexNum": 2,
+    "ndex": 188,
+    "name": "Skiploom",
+    "types": [
+      "Grass",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/188.png",
+    "category": "event",
+    "id": "E2",
+    "dexNum": 2
+  },
+  {
+    "rawDexNum": 3,
+    "ndex": 189,
+    "name": "Jumpluff",
+    "types": [
+      "Grass",
+      "Flying"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/189.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png",
+    "category": "event",
+    "id": "E3",
+    "dexNum": 3
+  },
+  {
+    "rawDexNum": 4,
+    "ndex": 302,
+    "name": "Sableye",
+    "types": [
+      "Dark",
+      "Ghost"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/302.png",
+    "category": "event",
+    "id": "E4",
+    "dexNum": 4
+  }
+]

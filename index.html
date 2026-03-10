@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokopia Tracker</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#3b82f6',
+                        darkBg: '#0f172a',
+                        darkCard: '#1e293b',
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body
+    class="bg-gray-50 text-gray-900 dark:bg-darkBg dark:text-gray-100 transition-colors duration-300 antialiased font-sans flex flex-col min-h-screen">
+    <div id="app" class="flex-grow flex flex-col" v-cloak>
+
+        <!-- Header / Navigation -->
+        <header
+            class="sticky top-0 z-40 w-full backdrop-blur-md bg-white/70 dark:bg-darkBg/80 border-b border-gray-200 dark:border-gray-800 shadow-sm transition-colors duration-300">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+                <div class="flex items-center gap-3">
+                    <div
+                        class="w-8 h-8 rounded-full bg-gradient-to-br from-red-500 to-red-600 flex items-center justify-center shadow-lg shadow-red-500/30">
+                        <div
+                            class="w-4 h-4 rounded-full bg-white border-2 border-gray-900 flex items-center justify-center">
+                            <div class="w-1.5 h-1.5 rounded-full bg-gray-900"></div>
+                        </div>
+                    </div>
+                    <h1
+                        class="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-red-500 to-purple-600 dark:from-red-400 dark:to-purple-500">
+                        Pokopia Tracker
+                    </h1>
+                </div>
+
+                <div class="flex items-center gap-4">
+                    <!-- Progress Bar (Desktop) -->
+                    <div class="hidden sm:flex items-center gap-3">
+                        <span class="text-sm font-medium">{{ caughtCount }} / {{ totalCount }}</span>
+                        <div class="w-32 h-2.5 bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">
+                            <div class="h-full bg-gradient-to-r from-green-400 to-emerald-500 transition-all duration-500 ease-out"
+                                :style="{ width: progressPercentage + '%' }"></div>
+                        </div>
+                        <span class="text-xs font-bold text-emerald-600 dark:text-emerald-400">{{ progressPercentage
+                            }}%</span>
+                    </div>
+
+                    <!-- Theme Toggle -->
+                    <button @click="toggleTheme"
+                        class="p-2 rounded-full hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors focus:outline-none focus:ring-2 focus:ring-primary">
+                        <i :class="isDark ? 'fa-solid fa-sun text-yellow-400' : 'fa-solid fa-moon text-indigo-600'"></i>
+                    </button>
+
+                    <!-- Settings Menu -->
+                    <div class="relative">
+                        <button @click="isMenuOpen = !isMenuOpen" @blur="closeMenu"
+                            class="p-2 rounded-full hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors focus:outline-none focus:ring-2 focus:ring-primary">
+                            <i
+                                class="fa-solid fa-ellipsis-vertical text-gray-600 dark:text-gray-300 w-4 font-bold text-lg"></i>
+                        </button>
+
+                        <!-- Dropdown Panel -->
+                        <div v-if="isMenuOpen"
+                            class="absolute right-0 mt-2 w-48 rounded-xl shadow-lg bg-white dark:bg-darkCard ring-1 ring-black ring-opacity-5 divide-y divide-gray-100 dark:divide-gray-800 focus:outline-none z-50 font-medium overflow-hidden transition-all origin-top-right">
+                            <div class="py-1">
+                                <!-- File input is hidden but activated by the import button -->
+                                <button @mousedown.prevent="$refs.fileInput.click(); isMenuOpen = false;"
+                                    class="block w-full text-left px-4 py-2.5 text-sm text-gray-700 dark:text-gray-200 hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors">
+                                    <i class="fa-solid fa-file-import w-5 text-center mr-2 text-primary"></i> Import
+                                    Backup
+                                </button>
+                                <button @mousedown.prevent="exportData(); isMenuOpen = false;"
+                                    class="block w-full text-left px-4 py-2.5 text-sm text-gray-700 dark:text-gray-200 hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors">
+                                    <i class="fa-solid fa-file-export w-5 text-center mr-2 text-emerald-500"></i> Export
+                                    JSON
+                                </button>
+                            </div>
+                            <div class="py-1">
+                                <button @mousedown.prevent="clearData(); isMenuOpen = false;"
+                                    class="block w-full text-left px-4 py-2.5 text-sm text-red-600 dark:text-red-400 hover:bg-red-50 dark:hover:bg-red-900/20 transition-colors">
+                                    <i class="fa-solid fa-trash-can w-5 text-center mr-2"></i> Clear Progress
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="flex-grow max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 w-full flex flex-col gap-6">
+
+            <!-- Controls Toolbar -->
+            <div
+                class="flex flex-col md:flex-row gap-4 justify-between items-start md:items-center bg-white dark:bg-darkCard p-4 rounded-2xl shadow-sm border border-gray-200 dark:border-gray-800 transition-colors duration-300">
+
+                <!-- Search -->
+                <div class="relative w-full md:w-96 group">
+                    <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                        <i
+                            class="fa-solid fa-search text-gray-400 group-focus-within:text-primary transition-colors"></i>
+                    </div>
+                    <input type="text" v-model="searchQuery" placeholder="Search by name or number..."
+                        class="block w-full pl-10 pr-3 py-2 border border-gray-300 dark:border-gray-600 rounded-xl leading-5 bg-gray-50 dark:bg-gray-800 text-gray-900 dark:text-gray-100 placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-primary focus:border-primary sm:text-sm transition-all shadow-inner">
+                </div>
+
+                <div class="flex flex-wrap items-center gap-3 w-full md:w-auto">
+                    <!-- Filter Status Dropdown -->
+                    <select v-model="filterStatus"
+                        class="block w-full md:w-auto pl-3 pr-10 py-2 border border-gray-300 dark:border-gray-600 bg-gray-50 dark:bg-gray-800 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-primary dark:text-gray-100 transition-colors cursor-pointer appearance-none bg-no-repeat bg-[right_0.5rem_center] bg-[length:1em_1em]"
+                        style="background-image: url('data:image/svg+xml;charset=UTF-8,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22 fill=%22none%22 stroke=%22currentColor%22 stroke-width=%222%22 stroke-linecap=%22round%22 stroke-linejoin=%22round%22%3E%3Cpolyline points=%226 9 12 15 18 9%22%3E%3C/polyline%3E%3C/svg%3E');">
+                        <option value="all">All Status</option>
+                        <option value="caught">Caught</option>
+                        <option value="uncaught">Uncaught</option>
+                    </select>
+
+                    <!-- Filter Category Dropdown -->
+                    <select v-model="filterCategory"
+                        class="block w-full md:w-auto pl-3 pr-10 py-2 border border-gray-300 dark:border-gray-600 bg-gray-50 dark:bg-gray-800 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-purple-500 dark:text-gray-100 transition-colors cursor-pointer appearance-none bg-no-repeat bg-[right_0.5rem_center] bg-[length:1em_1em]"
+                        style="background-image: url('data:image/svg+xml;charset=UTF-8,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22 fill=%22none%22 stroke=%22currentColor%22 stroke-width=%222%22 stroke-linecap=%22round%22 stroke-linejoin=%22round%22%3E%3Cpolyline points=%226 9 12 15 18 9%22%3E%3C/polyline%3E%3C/svg%3E');">
+                        <option value="all">All Pokémon</option>
+                        <option value="regular">Regular Dex</option>
+                        <option value="event">Event Only Dex</option>
+                    </select>
+
+                    <input type="file" id="importFile" accept=".json" @change="importData" class="hidden"
+                        ref="fileInput">
+                </div>
+            </div>
+
+            <!-- Mobile Progress Bar -->
+            <div
+                class="sm:hidden flex flex-col gap-2 bg-white dark:bg-darkCard p-4 rounded-2xl shadow-sm border border-gray-200 dark:border-gray-800">
+                <div class="flex justify-between items-center text-sm font-medium">
+                    <span>Progress: {{ caughtCount }} / {{ totalCount }}</span>
+                    <span class="text-emerald-600 dark:text-emerald-400 font-bold">{{ progressPercentage }}%</span>
+                </div>
+                <div class="w-full h-2.5 bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">
+                    <div class="h-full bg-gradient-to-r from-green-400 to-emerald-500 transition-all duration-500 ease-out"
+                        :style="{ width: progressPercentage + '%' }"></div>
+                </div>
+            </div>
+
+            <!-- Pokemon Grid -->
+            <div v-if="filteredPokemon.length === 0"
+                class="flex flex-col items-center justify-center py-20 text-center">
+                <div class="w-24 h-24 mb-4 text-gray-300 dark:text-gray-700">
+                    <i class="fa-solid fa-ghost text-6xl"></i>
+                </div>
+                <h3 class="text-xl font-medium text-gray-900 dark:text-white">No Pokémon found</h3>
+                <p class="text-gray-500 dark:text-gray-400 mt-2">Try adjusting your search or filters.</p>
+            </div>
+
+            <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4 sm:gap-6">
+                <div v-for="pokemon in filteredPokemon" :key="pokemon.id" @click="toggleCaught(pokemon.id)"
+                    class="pokemon-card group relative flex flex-col items-center p-4 rounded-2xl cursor-pointer transition-all duration-300 shadow-sm hover:shadow-xl transform hover:-translate-y-1 border"
+                    :class="[
+                        isCaught(pokemon.id) 
+                            ? 'bg-emerald-50/50 dark:bg-emerald-900/20 border-emerald-200 dark:border-emerald-800/50' 
+                            : 'bg-white dark:bg-darkCard border-gray-100 dark:border-gray-800/80 hover:border-gray-300 dark:hover:border-gray-700'
+                     ]">
+
+                    <!-- Caught Badge -->
+                    <div class="absolute top-3 right-3 z-10 transition-transform duration-300"
+                        :class="isCaught(pokemon.id) ? 'scale-100' : 'scale-0'">
+                        <div
+                            class="w-6 h-6 bg-emerald-500 rounded-full flex items-center justify-center shadow-md shadow-emerald-500/40">
+                            <i class="fa-solid fa-check text-white text-xs"></i>
+                        </div>
+                    </div>
+
+                    <!-- Event Badge -->
+                    <div v-if="pokemon.category === 'event'" class="absolute -top-3 -left-2 z-10">
+                        <span
+                            class="bg-gradient-to-r from-purple-600 to-indigo-600 text-white text-[10px] uppercase font-black tracking-widest px-2.5 py-1 rounded-full shadow-lg border border-purple-400/50">
+                            Event
+                        </span>
+                    </div>
+
+                    <div
+                        class="text-xs font-bold text-gray-400 dark:text-gray-500 self-start mb-2 tracking-wider flex justify-between w-full">
+                        <span>#{{ pokemon.category === 'event' ? String(pokemon.dexNum).padStart(3, '0') :
+                            String(pokemon.dexNum).padStart(3, '0') }}</span>
+                    </div>
+
+                    <div class="relative w-24 h-24 mb-3 flex items-center justify-center">
+                        <div
+                            class="absolute inset-0 bg-gray-100 dark:bg-gray-800 rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-300 scale-110">
+                        </div>
+                        <img :src="pokemon.image" :alt="pokemon.name" loading="lazy"
+                            class="relative z-10 w-full h-full object-contain filter transition-all duration-300"
+                            :class="isCaught(pokemon.id) ? 'drop-shadow-lg scale-110 grayscale-0' : 'grayscale group-hover:grayscale-[50%] opacity-80 group-hover:opacity-100'">
+                    </div>
+
+                    <h3 class="font-semibold text-gray-900 dark:text-white text-center mb-2 transition-colors duration-300 line-clamp-1"
+                        :class="isCaught(pokemon.id) ? 'text-emerald-700 dark:text-emerald-400' : ''">
+                        {{ pokemon.name }}
+                    </h3>
+
+                    <div class="flex flex-wrap justify-center gap-1.5 mt-auto w-full">
+                        <span v-for="type in pokemon.types" :key="type"
+                            class="type-badge text-[10px] font-bold uppercase tracking-wide px-2 py-0.5 rounded-md"
+                            :class="getTypeClass(type)">
+                            {{ type }}
+                        </span>
+                    </div>
+                </div>
+            </div>
+
+        </main>
+
+        <!-- Footer -->
+        <footer
+            class="mt-auto py-6 text-center text-sm text-gray-500 dark:text-gray-400 transition-colors duration-300 border-t border-gray-200 dark:border-gray-800 bg-white/50 dark:bg-darkBg/50">
+            <p>Made for Pokémon Pokopia players. Data sourced from Bulbapedia. Images source from PokeApi</p>
+        </footer>
+    </div>
+
+    <!-- Vue 3 -->
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <!-- App Logic -->
+    <script src="app.js"></script>
+</body>
+
+</html>

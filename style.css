@@ -1,0 +1,57 @@
+/* Custom styles to enhance Tailwind */
+
+[v-cloak] {
+    display: none;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #cbd5e1;
+    border-radius: 4px;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+    background: #475569;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #94a3b8;
+}
+
+.dark ::-webkit-scrollbar-thumb:hover {
+    background: #64748b;
+}
+
+/* Type colors logic */
+.type-badge.Normal { background-color: #A8A77A; color: white; }
+.type-badge.Fire { background-color: #EE8130; color: white; }
+.type-badge.Water { background-color: #6390F0; color: white; }
+.type-badge.Electric { background-color: #F7D02C; color: rgba(0,0,0,0.8); }
+.type-badge.Grass { background-color: #7AC74C; color: white; }
+.type-badge.Ice { background-color: #96D9D6; color: rgba(0,0,0,0.8); }
+.type-badge.Fighting { background-color: #C22E28; color: white; }
+.type-badge.Poison { background-color: #A33EA1; color: white; }
+.type-badge.Ground { background-color: #E2BF65; color: rgba(0,0,0,0.8); }
+.type-badge.Flying { background-color: #A98FF3; color: white; }
+.type-badge.Psychic { background-color: #F95587; color: white; }
+.type-badge.Bug { background-color: #A6B91A; color: white; }
+.type-badge.Rock { background-color: #B6A136; color: white; }
+.type-badge.Ghost { background-color: #735797; color: white; }
+.type-badge.Dragon { background-color: #6F35FC; color: white; }
+.type-badge.Dark { background-color: #705746; color: white; }
+.type-badge.Steel { background-color: #B7B7CE; color: rgba(0,0,0,0.8); }
+.type-badge.Fairy { background-color: #D685AD; color: rgba(0,0,0,0.8); }
+
+/* Animation tweaks */
+.pokemon-card {
+    contain: layout style;
+}
